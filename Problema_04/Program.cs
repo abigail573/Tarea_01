@@ -8,8 +8,6 @@ namespace Problema_04
 {
     internal class Program
     {
-        static void Main(string[] args)
-        {
             static void Main(string[] args)
             {
                 Obrero o = new Obrero(541, "Julian", 8, 40.5);
@@ -21,6 +19,5 @@ namespace Problema_04
                 Console.ReadKey();
 
             }
-        }
     }
 }

@@ -46,4 +46,5 @@ namespace Tarea_01
             Console.WriteLine($"Impuesto IGV        : {c.impuestoIGV()}");
             Console.WriteLine($"Total a pagar       : {c.totalPagar()}");
         }
+    }
 }

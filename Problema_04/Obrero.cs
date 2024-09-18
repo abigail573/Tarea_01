@@ -49,4 +49,5 @@ namespace Problema_04
             Console.WriteLine($"Descuento EPS : {o.descuentoEPS()}");
             Console.WriteLine($"Sueldo Neto   : {o.sueldoNeto()}");
         }
+    }
 }
